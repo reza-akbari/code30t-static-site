@@ -1,1 +1,0 @@
-import{o as t,c as a}from"./app.c6c473df.js";const r='{"title":"JavaScript","description":"","frontmatter":{"title":"JavaScript"},"relativePath":"tags/javascript/index.md","lastUpdated":1630942021790}',e={};e.render=function(r,e,i,c,d,p){return t(),a("div")};export{r as __pageData,e as default};
