@@ -1,1 +1,0 @@
-import{o as t,c as a}from"./app.b78feef2.js";const e='{"title":"JavaScript","description":"","frontmatter":{"title":"JavaScript"},"relativePath":"tags/javascript/index.md","lastUpdated":1630942021790}',r={};r.render=function(e,r,i,p,s,d){return t(),a("div")};export{e as __pageData,r as default};

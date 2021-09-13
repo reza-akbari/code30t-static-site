@@ -1,1 +1,0 @@
-import{o as t,c as e}from"./app.b78feef2.js";const a='{"title":"Alpine.js","description":"","frontmatter":{"title":"Alpine.js"},"relativePath":"tags/alpinejs/index.md","lastUpdated":1630826211980}',i={};i.render=function(a,i,n,r,s,p){return t(),e("div")};export{a as __pageData,i as default};

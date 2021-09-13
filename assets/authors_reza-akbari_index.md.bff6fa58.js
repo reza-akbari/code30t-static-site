@@ -1,0 +1,1 @@
+import{o as t,c as e}from"./app.be1dbef8.js";const a='{"title":"رضا اکبری","description":"","frontmatter":{"title":"رضا اکبری"},"relativePath":"authors/reza-akbari/index.md","lastUpdated":1631356267000}',r={};r.render=function(a,r,i,d,o,n){return t(),e("div")};export{a as __pageData,r as default};
